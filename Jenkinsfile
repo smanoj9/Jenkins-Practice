@@ -25,7 +25,7 @@ pipeline{
             steps{
                 script{
                     sh """
-                        echo "Hello this is Deploy
+                        echo "Hello this is Deploy"
                     """
                 }
             }
